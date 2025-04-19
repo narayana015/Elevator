@@ -1,0 +1,15 @@
+/workspaces/Elevator/ElevatorSystem/bin/Debug/net8.0/ElevatorSystem
+/workspaces/Elevator/ElevatorSystem/bin/Debug/net8.0/ElevatorSystem.deps.json
+/workspaces/Elevator/ElevatorSystem/bin/Debug/net8.0/ElevatorSystem.runtimeconfig.json
+/workspaces/Elevator/ElevatorSystem/bin/Debug/net8.0/ElevatorSystem.dll
+/workspaces/Elevator/ElevatorSystem/bin/Debug/net8.0/ElevatorSystem.pdb
+/workspaces/Elevator/ElevatorSystem/obj/Debug/net8.0/ElevatorSystem.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Elevator/ElevatorSystem/obj/Debug/net8.0/ElevatorSystem.AssemblyInfoInputs.cache
+/workspaces/Elevator/ElevatorSystem/obj/Debug/net8.0/ElevatorSystem.AssemblyInfo.cs
+/workspaces/Elevator/ElevatorSystem/obj/Debug/net8.0/ElevatorSystem.csproj.CoreCompileInputs.cache
+/workspaces/Elevator/ElevatorSystem/obj/Debug/net8.0/ElevatorSystem.sourcelink.json
+/workspaces/Elevator/ElevatorSystem/obj/Debug/net8.0/ElevatorSystem.dll
+/workspaces/Elevator/ElevatorSystem/obj/Debug/net8.0/refint/ElevatorSystem.dll
+/workspaces/Elevator/ElevatorSystem/obj/Debug/net8.0/ElevatorSystem.pdb
+/workspaces/Elevator/ElevatorSystem/obj/Debug/net8.0/ElevatorSystem.genruntimeconfig.cache
+/workspaces/Elevator/ElevatorSystem/obj/Debug/net8.0/ref/ElevatorSystem.dll
